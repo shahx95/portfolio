@@ -29,7 +29,7 @@ fetch("/", {
 
   return (
     <form onSubmit={handleSubmit}>
-      <input type="hidden" name="form-name" value="contact" />
+      <input type="hidden" name="contact" value="contact" />
       <label htmlFor="name" className="inline-block mb-1 font-medium">Name:</label>
       <input
         type="text"
