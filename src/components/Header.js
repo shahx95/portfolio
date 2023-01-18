@@ -13,7 +13,7 @@ export default function(){
                   <span className="text-green-800">Shah</span>! 
                 </h2>
                 <p className="max-w-xl mb-4 text-base text-gray-400 md:text-lg">
-                I am a fullstack software engineer with 2+ years of experience.
+                I am a fullstack software engineer with 3+ years of experience.
                 </p>
                 <p className="max-w-xl mb-4 text-base text-gray-400 md:text-lg">
                 Please take a look around to see what I've been up to, the
