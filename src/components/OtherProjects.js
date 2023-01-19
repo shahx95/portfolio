@@ -99,7 +99,7 @@ export default function(){
             </h5>
             <div className="relative pr-8">
               <p className="text-base text-gray-700 md:text-lg">
-              This website that you are currently browsing. The website showcases my skills and projects, utilizing the power of React for dynamic updates and Tailwind for clean and modern styling."
+              This website that you are currently browsing. The website showcases my skills and projects, utilizing the power of React for dynamic updates and Tailwind for clean and modern styling.
               </p>
             </div>
           </div>
