@@ -137,7 +137,7 @@ export default function(){
                 </li>
                 <li>
                   <a
-                    href="#contact"
+                    href="#workwithme"
                     aria-label="Contact"
                     title="Contact"
                     class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
