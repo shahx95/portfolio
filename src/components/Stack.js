@@ -71,7 +71,7 @@ export default function(){
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full sm:w-12 sm:h-12">
-            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
+            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postman"/>
              
           </div>
           <h6 className="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
@@ -125,7 +125,7 @@ export default function(){
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full sm:w-12 sm:h-12">
-            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="illustrator"/>
+            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
              
           </div>
           <h6 className="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
@@ -134,7 +134,7 @@ export default function(){
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full sm:w-12 sm:h-12">
-            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>
+            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress"/>
              
           </div>
           <h6 className="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
@@ -143,22 +143,14 @@ export default function(){
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full sm:w-12 sm:h-12">
-            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>
+            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify"/>
              
           </div>
           <h6 className="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
             Shopify
           </h6>
         </div>
-        <div className="text-center">
-          <div className="flex items-center justify-center w-10 h-10 mx-auto mb-4 rounded-full sm:w-12 sm:h-12">
-            <img className="w-8 h-8 text-deep-purple-accent-400 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>
-             
-          </div>
-          <h6 className="mb-2 text-sm font-bold leading-5 tracking-wider uppercase">
-            World
-          </h6>
-        </div>
+        
       </div>
     </div>
   );
