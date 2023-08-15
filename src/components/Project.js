@@ -45,22 +45,22 @@ export default function(){
           <div className="flex items-center justify-center">
               <img
                 className="object-fit w-full h-56 rounded shadow-lg sm:h-96"
-                src="fourthings.png"
+                src="xConnect.png"
                 alt=""
               />
             </div>
           <div className="w-full max-w-xl px-4 mx-auto my-auto md:px-0 lg:px-8 lg:max-w-screen-xl">
         <div className="mb-0 lg:max-w-lg lg:pr-8 xl:pr-6">
           <h2 className="mb-5 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none md:text-center">
-            Four Things
+            xConnect
           </h2>
           <p className="mb-5 text-base text-gray-700 md:text-lg md:text-center">
-          A comprehensive task management solution, tailored to meet the unique needs of individuals with attention deficit disorder (ADD). This platform boasts a user-friendly interface that enables users to seamlessly organize and prioritize their tasks, while providing an automatic task rollover feature that works in tandem with the task bank. By leveraging this tool, individuals with ADD can improve their focus, increase productivity and ultimately, achieve their goals in an efficient and effective manner. 
+          An expat shopper app that facilitates seamless local deliveries to families back home. It features user account creation, order creation, add / remove / update items to orders, streamlined order processing, integrated with stripe with multiple payment options, admin dashboard, responsive design and more. 
           </p>
-          <p className="mb-5 text-base text-gray-700 md:text-lg md:text-center">Four Things is built using Bootstrap for the frontend, Node.js for the backend, and a MongoDB database to store data.</p>
+          <p className="mb-5 text-base text-gray-700 md:text-lg md:text-center">xConnect is build using Bootstrap for the frontend, NodeJS for the backend and mongoDB for storing data.</p>
           <div className="mb-10 text-center md:mb-2 lg:mb-2">
             <a
-              href="https://mvp.shahx95.repl.co/"
+              href="https://xconnect.shahx95.repl.co"
               target="_blank" 
               className="inline-flex items-center justify-center w-full h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto bg-green-800 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
             >
